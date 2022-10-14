@@ -1,11 +1,10 @@
 <!-- _coverpage.md -->
 
-# 使用指南 
+# 紫薯补丁 
 
-> 💪使用指南。
-
-- 无需生成 html 文件
-- 众多主题
+> 💪linux教程分享，主：Debian
 
 
-[开始使用 Let Go](/README.md)
+
+
+[一起抄吧](/README.md)

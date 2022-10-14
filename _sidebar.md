@@ -1,7 +1,5 @@
 <!-- _sidebar.md -->
-
-* 使用指南
-  * [使用指南1](/papers/123.md) <!--注意这里是相对路径-->
-  * [使用指南2](/papers/124.md)
-* 使用指南
-  * [使用指南3](/papers/125.md)
+* linux教程
+  * [CloudFlare设置DDNS教程](/papers/cf-ddns.md)
+* docsify教程
+  * [示例写法](/papers/123.md) 
