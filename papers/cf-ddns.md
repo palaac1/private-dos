@@ -1,4 +1,4 @@
-## CloudFlare 设置DDNS教程
+## 自建DDNS配置教程 - CloudFlare
 
 Shell 脚本
 > 获取脚本
