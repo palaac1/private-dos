@@ -7,9 +7,6 @@
 wget http://sh.nekoneko.cloud/tools.sh -O tools.sh && bash tools.sh
 ```
 
-```bash
-wget -O tcpx.sh "http://sh.nekoneko.cloud/tools.sh" && chmod +x tools.sh && bash tools.sh
-```
 
 - BBR一键安装: http://sh.nekoneko.cloud/bbr/bbr.sh
 
