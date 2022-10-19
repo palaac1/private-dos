@@ -33,6 +33,7 @@ wget --no-check-certificate -O AutoReinstall.sh https://git.io/AutoReinstall.sh 
 
 ----
 - 国内机DD - 163源
+- 也可以使用其他国内源，例：`http://mirrors.ustc.edu.cn/debian/`<br>
 
 ```bash
 bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 11 -v 64 -a -p 密码 --mirror 'http://mirrors.163.com/debian/'

@@ -14,6 +14,28 @@ docker version > /dev/null || curl -fsSL get.docker.com | bash
 
 > Docker Compose 安装
 
+Ubuntu, Debian:
+
+```bash
+ sudo apt-get update
+ sudo apt-get install docker-compose-plugin
+```
+ 
+RPM-based distros:
+
+```bash
+ sudo yum update
+ sudo yum install docker-compose-plugin
+```
+
+Verify that Docker Compose is installed correctly by checking the version.
+
+```bash
+docker compose version
+```
+
+----
+----
 Linux 上我们可以从 Github 上下载它的二进制包来使用，最新发行的版本地址：https://github.com/docker/compose/releases
 
 运行以下命令以下载 Docker Compose 的当前稳定版本：
