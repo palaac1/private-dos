@@ -10,9 +10,11 @@
   * [Debian单网卡绑定多IP地址](/papers/debian-multi-ip.md)  
   * [Linux 批量查找与替换](/papers/linux-findtoreplace.md) 
   * [Linux DD系统](/papers/linux-dd.md) 
+  * [Linux 网卡限速](/papers/linux-speedlimit.md) 
   * [jsdelivr加速GitHub](/papers/jsdelivr.md) 
   * [Debian安装 ProxmoxVE7](/papers/ProxmoxVE7.md) 
   * [ProxmoxVE7添加网卡](/papers/Proxmox-network.md) 
+
   
 * docsify教程
   * [示例写法](/papers/123.md) 
