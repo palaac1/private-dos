@@ -115,8 +115,10 @@ NOPRIOPORTDST=();
 - 然后执行以下命令，可以让 wondershaper 在每次系统启动时都自动开始服务：
 
 ``` bash
-开机运行
+开启服务
 sudo systemctl enable wondershaper.service
+关闭服务器
+sudo systemctl disable wondershaper.service
 启动
 sudo systemctl start wondershaper.service
 重启
